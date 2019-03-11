@@ -1,0 +1,47 @@
+body {
+	font-family: poppins;
+}
+
+#sec-home {
+	background-image: url("file:///MAC/Users/macossierra/Desktop/prueba/img/home-header-bg.jpg");
+	color: #fff;
+	padding-bottom: 800px;
+	
+	
+}
+
+#sec-coaches {
+	margin-top: 100px;
+	margin-bottom: 100px;
+	
+}
+
+#sec-about {
+	margin-bottom: 100px;
+	
+}
+
+#sec-gallery {
+	
+}
+
+#p1 {
+	color: #7e7979;
+}
+
+#p2 {
+	color: #7e7979;
+	font-size: 14px ;
+	
+}
+
+#footer {
+	padding-top: 100px;
+	background-color: #7e7979;
+	text-align: center;
+	padding-bottom: 50px;
+	
+	
+}
+
+
